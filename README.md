@@ -12,4 +12,4 @@
 #### Part-1: Imports and Data Extraction
 #### Part-2: Exploratory Data Analysis
 #### Part-3: Model Prediction (model-1: linear regression, model-2: polynomial regression, model-3: ridge, model-4: lassocv, model-5: random forest, model-6: support vector machine)
-#### Part-4: Model work for testing
+#### Part-4: Deployment; Model work for testing
